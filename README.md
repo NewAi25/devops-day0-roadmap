@@ -8,7 +8,7 @@ Each topic is written as a **recipe** using the format:
 
 ## 📖 Recipes
 
-1. [Linux Essentials (Recipe 1)](./docs/Recipe-01-Linux.md)
+1. [Linux Essentials (Recipe 1)](https://github.com/NewAi25/devops-day0-roadmap/blob/37ea39970096de18bc8c10f14b67dcc2a1d41a5b/1.DAY-1-LINUX.docx)
 2. Networking Essentials (Recipe 2) – coming soon
 3. More recipes will be added...
 
